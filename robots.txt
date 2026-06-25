@@ -1,0 +1,7 @@
+# Robots.txt - Arsindo Irmawan Campaign Website
+# https://arsindoirmawan.my.id
+
+User-agent: *
+Allow: /
+
+Sitemap: https://arsindoirmawan.my.id/sitemap.xml
